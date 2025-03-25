@@ -2,9 +2,7 @@
   "name": "@velmajs/eslint-config",
   "version": "0.0.0",
   "type": "module",
-  "publishConfig": {
-    "access": "public"
-  },
+  "private": true,
   "devDependencies": {
     "eslint": "^9.22.0",
     "@eslint/eslintrc": "^3.3.0",
